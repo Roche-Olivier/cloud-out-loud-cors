@@ -1,6 +1,6 @@
 {
   "name": "cloud-out-loud-cors",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "CORS package within the API aplications",
   "main": "index.js",
   "scripts": {

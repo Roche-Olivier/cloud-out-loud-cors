@@ -1,0 +1,16 @@
+{
+  "name": "cloud-out-loud-cors",
+  "version": "1.0.2",
+  "description": "CORS package within the API aplications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "cors",
+    "process.env"
+  ],
+  "author": "Roche OLivier",
+  "license": "MIT"
+}

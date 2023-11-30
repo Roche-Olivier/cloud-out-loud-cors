@@ -1,5 +1,5 @@
 
-export const _cors = {
+exports._cors = {
     init: function (app) {
         var allowCrossDomain = function (req, res, next) {
             res.header('Access-Control-Allow-Origin', process.env.CORS_ALLOW_ORIGIN);
